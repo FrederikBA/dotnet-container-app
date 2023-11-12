@@ -15,4 +15,4 @@ jobs:
 
     - name: Build and run Docker Compose
       run: |
-        pwd
+        docker-compose -f ContainerApp/docker-compose.yml up -d
