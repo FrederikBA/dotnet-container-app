@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerApp.Web", "src\ContainerApp.Web\ContainerApp.Web.csproj", "{C9D15CBB-53D0-488A-8360-E95AD0A2AACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerApp.Test", "test\ContainerApp.Test\ContainerApp.Test.csproj", "{E66F79DB-0EFB-4C55-98CA-8100171049D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9D15CBB-53D0-488A-8360-E95AD0A2AACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D15CBB-53D0-488A-8360-E95AD0A2AACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D15CBB-53D0-488A-8360-E95AD0A2AACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D15CBB-53D0-488A-8360-E95AD0A2AACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66F79DB-0EFB-4C55-98CA-8100171049D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66F79DB-0EFB-4C55-98CA-8100171049D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66F79DB-0EFB-4C55-98CA-8100171049D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66F79DB-0EFB-4C55-98CA-8100171049D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
