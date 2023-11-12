@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KNxFFSYnqKj+6BZMSlHs99UNtB6BOnb3HZUzirgpQb0=",
+  "Source": "ContainerApp.Web",
+  "BasePath": "_content/ContainerApp.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

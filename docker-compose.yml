@@ -1,0 +1,10 @@
+﻿version: '3.8'
+
+services:
+  containerapp.web:
+    image: containerapp.web
+    build:
+      context: .
+      dockerfile: src/ContainerApp.Web/Dockerfile
+    ports:
+      - "8080:80"

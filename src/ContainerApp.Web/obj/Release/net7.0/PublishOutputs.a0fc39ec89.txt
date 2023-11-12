@@ -1,0 +1,7 @@
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/out/ContainerApp.Web
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/out/appsettings.Development.json
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/out/appsettings.json
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/out/ContainerApp.Web.dll
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/out/ContainerApp.Web.deps.json
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/out/ContainerApp.Web.runtimeconfig.json
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/out/ContainerApp.Web.pdb

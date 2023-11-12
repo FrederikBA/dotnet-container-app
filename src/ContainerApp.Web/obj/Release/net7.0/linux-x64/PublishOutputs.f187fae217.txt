@@ -1,0 +1,7 @@
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/bin/Release/net7.0/linux-x64/publish/ContainerApp.Web
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/bin/Release/net7.0/linux-x64/publish/appsettings.Development.json
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/bin/Release/net7.0/linux-x64/publish/appsettings.json
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/bin/Release/net7.0/linux-x64/publish/ContainerApp.Web.dll
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/bin/Release/net7.0/linux-x64/publish/ContainerApp.Web.deps.json
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/bin/Release/net7.0/linux-x64/publish/ContainerApp.Web.runtimeconfig.json
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/bin/Release/net7.0/linux-x64/publish/ContainerApp.Web.pdb

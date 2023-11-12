@@ -24,3 +24,8 @@
 /Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/obj/Debug/net7.0/ContainerApp.Web.pdb
 /Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/obj/Debug/net7.0/ContainerApp.Web.genruntimeconfig.cache
 /Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/obj/Debug/net7.0/ref/ContainerApp.Web.dll
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/bin/Debug/net7.0/out/web.config
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/bin/Debug/net7.0/out/appsettings.Development.json
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/bin/Debug/net7.0/out/appsettings.json
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/bin/Debug/net7.0/out/ContainerApp.Web.deps.json
+/Users/frederik/RiderProjects/ContainerApp/src/ContainerApp.Web/bin/Debug/net7.0/out/ContainerApp.Web.runtimeconfig.json
