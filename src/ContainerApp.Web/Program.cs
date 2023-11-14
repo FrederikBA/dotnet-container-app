@@ -17,7 +17,7 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
-app.MapGet("/", () => "change me");
+app.MapGet("/", () => "changed");
 
 app.UseCors(policyName);
 
